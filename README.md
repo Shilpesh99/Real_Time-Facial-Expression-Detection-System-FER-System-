@@ -1,0 +1,2 @@
+# Real_Time-Facial-Expression-Detection-System-FER-System-
+The Real-Time Facial Expression Detection System is a Python-based project that aims to detect and classify facial expressions in real-time video streams. Leveraging computer vision techniques and deep learning models, this system can accurately identify various facial expressions, including happiness, sadness, surprise, anger, and neutrality.

@@ -1,5 +1,14 @@
 # Real_Time-Facial-Expression-Detection-System-FER-System-
-The Real-Time Facial Expression Detection System is a Python-based project that aims to detect and classify facial expressions in real-time video streams. Leveraging computer vision techniques and deep learning models, this system can accurately identify various facial expressions, including happiness, sadness, surprise, anger, and neutrality.
+## Problem Statement
+Human Facial Expression are extremly essential in social communication. Normally communication involves both verbal and nonverbal. Nonverbal communication are expressed through facial expression. Face expressions are the delicate signals of the larger communications. Human Facial Expression are important for visually expressing a lot more information. Facial expression recognotion is essential in the field of human-machine interaction. Automated facial recognition systems have many applications, including understanding of human behaviour, dianosing mental disorders and synthetic human expression. Indentifying facial expressions through computers with high detection rates is still a challenging task. In this project we have to use a variety of intensive deep learning techniques to identify the main seven huan emotions : ANGER, SURPRISE, SAD, HAPPY, NEUTRAL.
+
+## System & Technology Requiremnt
+- A system with good hardware specification : processor i5 or above, RAM 8GB or above, GPU 1050ti or above (The machine learning step will take so much time)
+- IDE (VSCODE, JUPYTER NOTEBOOK, GOOGLE COLLAB)
+- Python Libraries :
+  - Keras : High-level neural network API for building and training model.
+  - OpenCV(cv2) : Open-source computer version and machine learning software library.
+  - Numpy : Library for numerical operation. 
 
 ## Key Features
 

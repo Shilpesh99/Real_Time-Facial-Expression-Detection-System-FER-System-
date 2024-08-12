@@ -10,6 +10,9 @@ Human Facial Expression are extremly essential in social communication. Normally
   - OpenCV(cv2) : Open-source computer version and machine learning software library.
   - Numpy : Library for numerical operation. 
 
+## Output :
+![image](https://github.com/user-attachments/assets/819f8cad-a1fb-44f8-a930-c614c21879b7)
+
 ## Key Features
 
 - **Real-time Detection** : Process live video streams from the camera in real-time for instantaneous detection of facial expressions.

@@ -12,7 +12,11 @@ Human Facial Expression are extremly essential in social communication. Normally
 - Machine Leaning :
   - Convolutional Neural Networks (CNNs), Deep Learning Architectures
 
-## Output :
+## Dataset
+Face expression recognition dataset
+Dataset Link : https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
+
+## Output
 ![image](https://github.com/user-attachments/assets/819f8cad-a1fb-44f8-a930-c614c21879b7)
 
 ## How It Works
